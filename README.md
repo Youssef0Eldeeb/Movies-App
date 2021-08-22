@@ -1,3 +1,5 @@
 # Movies-App
 ### Final Project of ITI Summer Training 
-this app shows information about the latest movies like ( release date and rating and trailer of movie, review )
+This app shows information about the latest movies like ( release date and rating and trailer of movie, review )
+Some screenshot: 
+![Simulator Screen Shot - iPhone 11 - 2021-08-23 at 01 27 16](https://user-images.githubusercontent.com/55714593/130374139-31ff51d7-0078-45ca-b5c2-c0d650501280.png)![Simulator Screen Shot - iPhone 11 - 2021-08-23 at 01 27 02](https://user-images.githubusercontent.com/55714593/130374142-518b005c-cc83-40d2-903f-e22027bc4668.png)![Simulator Screen Shot - iPhone 11 - 2021-08-23 at 01 26 47](https://user-images.githubusercontent.com/55714593/130374143-bfc13fe1-8e32-4e52-9bd8-1e73020ea379.png)![Simulator Screen Shot - iPhone 11 - 2021-08-23 at 01 26 34](https://user-images.githubusercontent.com/55714593/130374148-e10f0e97-c9ba-45cf-b03b-e4f7fe9f85e6.png)![Simulator Screen Shot - iPhone 11 - 2021-08-23 at 01 25 25](https://user-images.githubusercontent.com/55714593/130374149-af0fa776-a957-42b5-8c15-36b7728adc40.png)
